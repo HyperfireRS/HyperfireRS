@@ -11,7 +11,10 @@ I'm a new developer who makes Discord bots and Minecraft plugins.
 
 **Main APIs/Libraries:**
 
-<img alt="SpigotMC" align="center" src="https://img.shields.io/badge/-SpigotMC%20Api-blue?style=flat&logo=Minecraft&logoColor=white" /> <img alt="Discord.JS" align="center" src="https://img.shields.io/badge/-Discord.JS-blue?style=flat&logo=Discord&logoColor=white" /> 
+<img alt="SpigotMC" align="center" src="https://img.shields.io/badge/-SpigotMC%20Api-blue?style=flat&logo=Minecraft&logoColor=white" /> <img alt="Discord.JS" align="center" src="https://img.shields.io/badge/-Discord.JS-blue?style=flat&logo=Discord&logoColor=white" /> <br>![ClubDJS Logo (1)](https://user-images.githubusercontent.com/76081146/166808315-3c799218-7bc8-427d-bf42-f35ce356d5fa.png) ![CC Logo (1)](https://user-images.githubusercontent.com/76081146/166808602-3ecab7f8-55ea-46ee-8fab-c1da50724af0.png)
+
+
+
 
 
 **My Main Projects:**
