@@ -1,7 +1,22 @@
-# Hey! It's me, hyperfire. I make discord bots, and i own an [epic discord server.](https://discord.gg/vbu87ZF4HV) I'm working on a fork of [Sound's MC Utils](https://github.com/axisiscool/MC-Utils) named [Hyper's Utilities.](https://discord.gg/vbu87ZF4HV)
-Join my [epic server](https://discord.gg/vbu87ZF4HV) to get in contact with me!
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hyperfirers&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyperfirers&theme=dark&hide_border=true&layout=compact&langs_count=6">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperfire-dev&repo=information&show_owner=true&theme=dark)](https://github.com/hyperfire-dev/information)
+## Hiya! I'm Hyper.
+
+I'm a new developer who makes Discord bots and Minecraft plugins.
+
+**What languages I use:**
+
+<img alt="Node.js" align="center" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /> <img alt="Java" align="center" src="https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white" /> 
+
+**Main APIs/Libraries:**
+
+<img alt="SpigotMC" align="center" src="https://img.shields.io/badge/-SpigotMC%20Api-blue?style=flat&logo=Minecraft&logoColor=white" /> <img alt="Discord.JS" align="center" src="https://img.shields.io/badge/-Discord.JS-blue?style=flat&logo=Discord&logoColor=white" /> 
 
 
-![](https://github-readme-stats.vercel.app/api?username=hyperfirers&count_private=true&show_icons=true&theme=dark&custom_title=My%20Github%20Stats)
+**My Main Projects:**
+
+- [ClubCoreMC](https://github.com/ClubCoreMC)
+  - An organization that develops plugins using the SpigotMC api.
+- [Hyperfire-Dev](https://github.com/Hyperfire-Dev)
+  - A moderation bot for Discord.
