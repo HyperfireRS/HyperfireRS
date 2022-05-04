@@ -21,5 +21,9 @@ I'm a new developer who makes Discord bots and Minecraft plugins.
 
 - [ClubCoreMC](https://github.com/ClubCoreMC)
   - An organization that develops plugins using the SpigotMC api.
+ <br>![CC Logo (1)](https://user-images.githubusercontent.com/76081146/166809069-5433cc42-8ebd-4b3d-923a-e1957d429e14.png)
+
 - [Hyperfire-Dev](https://github.com/Hyperfire-Dev)
   - A moderation bot for Discord.
+ <br>![HD Logo (1)](https://user-images.githubusercontent.com/76081146/166809102-6c5881d1-15ef-4c3b-9d92-4d6cc677add4.png)
+
