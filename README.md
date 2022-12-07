@@ -19,6 +19,5 @@ I'm a TypeScript and Java developer who makes Discord bots and Minecraft plugins
 
 **My Main Projects:**
 
-- [ClubCoreMC](https://github.com/ClubCoreMC)
-- [Hyperfire-Dev](https://github.com/Hyperfire-Dev)
+- [DiscordModUtils/Club Tools](https://github.com/Hyperfire-Dev/DiscordModUtils): A discord utility and moderation bot.
 
