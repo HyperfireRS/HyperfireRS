@@ -1,6 +1,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hyperfirers&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyperfirers&theme=dark&hide_border=true&layout=compact&langs_count=6">
-
+# this is so outdated lmfao
 ## Hiya! I'm Hyper.
 
 I'm a TypeScript and Java developer who makes Discord bots and Minecraft plugins.
