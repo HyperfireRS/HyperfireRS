@@ -2,6 +2,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyperfirers&theme=dark&hide_border=true&layout=compact&langs_count=6">
 
 ## this is so outdated but Hiya! I'm Hyper.
+[![](https://visitcount.itsvg.in/api?id=Hyper&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 I'm a TypeScript and Java developer who makes Discord bots and Minecraft plugins.
 
